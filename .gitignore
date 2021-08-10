@@ -12,4 +12,3 @@
 *.out
 *.iml
 .idea/*
-go.sum
